@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/a48aa2b9819b735364e74.jpg" alt="Data Base Games" width="500"/>
 
 ## Thanks To
-* [`Nurutomo`](https://github.com/BochilTeam)
+* [`BochilTeam`](https://github.com/BochilTeam)
 * [`Restaa`](https://github.com/Restaa)
 
 
